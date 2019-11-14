@@ -26,4 +26,3 @@ Things you may want to cover:
 - Client Google Doc:  `https://docs.google.com/document/d/1MtSegOPKrH4t-IiPQpChsMQen--A3S6Eb2mdxCKCWFk/edit`
 - Planning Google Doc: `https://docs.google.com/document/d/1mp41m6AI0OXrpbHcZpbfniERIhbh_3tOnPGeTMQ6qmI/edit?usp=sharing`
 - Schema Design: https://docs.google.com/document/d/177KetKdtTRY5ZjKLJpanzlyEJrqp_TD_8kthwVx9UHA/edit
-
